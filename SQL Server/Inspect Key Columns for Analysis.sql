@@ -1,0 +1,11 @@
+SELECT
+    ID,
+    AddressInfo_Title,
+    AddressInfo_Town,
+    AddressInfo_StateOrProvince,
+    OperatorInfo_Title,
+    StatusType_Title,
+    AddressInfo_Latitude,
+    AddressInfo_Longitude
+FROM
+    ChargingStations;
