@@ -245,12 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
-
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-
 ## 🙏 Acknowledgments
 
 - **Open Charge Map**: For providing comprehensive EV charging station data
